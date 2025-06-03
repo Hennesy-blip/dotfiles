@@ -121,3 +121,4 @@ export NVM_DIR="$HOME/.nvm"
 
 # flutter
 export PATH="/usr/bin/flutter/bin:$PATH"
+alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
